@@ -1,4 +1,4 @@
-# Mentorness
+# Cost of living Analysis
 
 ## Project Overview 
 This project revolves around the analysis of the cost of living in various cities and countries across the

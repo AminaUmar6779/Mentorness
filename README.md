@@ -182,6 +182,7 @@ By comparing Cost of living between cities or countries, you can understand how 
 Rent index: Rent Index refers to a statistical measure that tracks changes in rental prices over time for a specific region. It's a valuable tool for understanding how affordable or expensive renting is in a particular location. 
 Rent Index helps track how quickly or slowly rents are increasing (or decreasing) in a specific area. This can be helpful for both tenants and landlords.
 Tenants can use it to gauge how much rent increases they might expect and budget accordingly. Landlords can use it to see how their rental prices compare to the market average and adjust them strategically.
+
 Our analysis shows that Monaco has the highest rent index compared to all the 214 countries with a rent index of 472.91 
 
 Bermuda was the second highest with a rent index of 162.98 
@@ -189,8 +190,6 @@ Bermuda was the second highest with a rent index of 162.98
 Followed by Singapore with a total of 136.85 
 
 South Sudan follows closely with a total 135.05 and Hongkong was the fifth highest country with a rent index of  115.95
-
-Grocery Price Index:
 
 Transportation Index: Our analysis shows that Djibouti has the highest transportation index with a total of 1.6, followed by Marshall island with a total of 1.05, next on the list is singapore with 0.99 anf United Arab emirates followly closely with 0.86
 
